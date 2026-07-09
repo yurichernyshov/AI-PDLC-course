@@ -18,6 +18,16 @@
 
 # Структура репозитория
 
+## Методические документы
+
+Концепция трансформации жизненного цикла разработки программного обеспечения в эпоху ИИ https://aipdlc.ru/ru
+
+https://vladislaveremeev.gitbook.io/qa_bible/ai-v-testirovanii/ai-driven-development-lifecycle
+
+https://aistudio.yandex.ru/docs/ru/ai-studio/concepts/agents/
+
+
+
 [Назад к Оглавлению](#Оглавление)
 
 # Литература
